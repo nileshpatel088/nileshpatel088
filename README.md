@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Nilesh Patel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+# 🚀 About Me
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshpatel088&label=Profile%20views&color=0e75b6&style=flat" alt="nileshpatel088" /> </p>
+✨ Frontend Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshpatel088" alt="nileshpatel088" /></a> </p>
+🌱 Currently Learning JavaScript
 
-- 🌱 I’m currently learning **HTML,CSS,JavaScript, programming**
+💻 Love HTML, CSS & JavaScript
 
-- 📫 How to reach me **np8810480@gmail.com**
+🔥 Building Beautiful Websites
+
+🎯 Goal → Full Stack Developer
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
