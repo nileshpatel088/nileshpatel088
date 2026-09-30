@@ -36,10 +36,13 @@
 
 ---
 
-## 🔥 GitHub Streak
+
+# 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?nileshpatel088&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=nileshpatel088&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -55,23 +58,27 @@
 </p>
 ---
 
-## 📈 Contribution Graph
+# 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?nileshpatel088&theme=tokyo-night&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nileshpatel088&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 🚀 My Projects
+# 🚀 Featured Projects
 
-| Project         | Description                | Technology  |
-| --------------- | -------------------------- | ----------- |
-| 🌐 Portfolio    | Personal Portfolio Website | HTML CSS JS |
-| 🧮 Calculator   | Simple Calculator          | HTML CSS JS |
-| 🎨 Landing Page | Modern Landing Page        | HTML CSS    |
-| 🔐 Login Page   | Login & Signup UI          | HTML CSS    |
+🌐 Portfolio Website
 
+🎮 JavaScript Games
+
+📝 To-Do App
+
+🧮 Calculator
+
+📱 Responsive Landing Page
 ---
 
 ## 🎯 My Goals
