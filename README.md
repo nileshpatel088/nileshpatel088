@@ -109,12 +109,6 @@ Node.js       ██░░░░░░░░░░░░░░░░░░  10%
 
 ---
 
-## 💡 Developer Quote
-
-<p align="center">
-  <b>"Code. Learn. Build. Repeat. 🚀"</b>
-</p>
-
 ---
 
 <div align="center">
