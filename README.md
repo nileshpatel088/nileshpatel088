@@ -107,13 +107,15 @@ Node.js       ██░░░░░░░░░░░░░░░░░░  10%
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?nileshpatel088&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
 
-<h3 align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</h3>
+## ⭐ Thanks for Visiting
+
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250"/>
+
+### Happy Coding 🚀
+
+</div>
 
 <p align="center">
   Made with ❤️ by Nilesh Patel
