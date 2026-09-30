@@ -91,7 +91,7 @@ Node.js       ██░░░░░░░░░░░░░░░░░░  10%
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/nilesh-patel-773a52415">
+<a href="https://www.linkedin.com/in/nileshpatel-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
