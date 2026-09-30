@@ -19,12 +19,14 @@
 </p>
 
 ---
+# 🐍 Snake Eating Contributions
 
-## 📊 GitHub Stats
+> GitHub Action se enable karna hoga.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?nileshpatel088&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nileshpatel088&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -40,15 +42,13 @@
 
 ---
 
-# 🐍 Snake Eating Contributions
-
-> GitHub Action se enable karna hoga.
+## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?nileshpatel088&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nileshpatel088&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
 ---
 
 # 📈 Activity Graph
