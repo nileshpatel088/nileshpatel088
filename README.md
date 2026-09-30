@@ -44,12 +44,15 @@
 
 ---
 
-## 🐍 My Contribution Snake
+# 🐍 Snake Eating Contributions
+
+> GitHub Action se enable karna hoga.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nileshpatel088/nileshpatel088/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
 ---
 
 ## 📈 Contribution Graph
