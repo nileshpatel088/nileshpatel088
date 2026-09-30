@@ -44,19 +44,29 @@
 
 ---
 
----
-
 # 🚀 Featured Projects
 
-🌐 Portfolio Website
+<div align="center">
 
-🎮 JavaScript Games
+✨ **Some of my favorite projects** ✨
 
-📝 To-Do App
+<br>
 
-🧮 Calculator
+<a href="#">
+  <img src="https://img.shields.io/badge/🌐_Portfolio_Website-Visit-blue?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
 
-📱 Responsive Landing Page
+<a href="#">
+  <img src="https://img.shields.io/badge/📝_To--Do_App-Manage-green?style=for-the-badge&logo=todoist&logoColor=white" />
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/🧮_Calculator-Calculate-purple?style=for-the-badge&logo=googlecalculator&logoColor=white" />
+</a>
+
+</div>
+
+
 ---
 
 ## 🎯 My Goals
