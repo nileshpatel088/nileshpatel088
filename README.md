@@ -71,13 +71,7 @@
 
 ## 🎯 My Goals
 
-```text
-HTML          ████████████████████ 100%
-CSS           ████████████████░░░░  80%
-JavaScript    ██████████░░░░░░░░░░  50%
-React.js      ████░░░░░░░░░░░░░░░░  20%
-Node.js       ██░░░░░░░░░░░░░░░░░░  10%
-```
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=1800&pause=700&color=58A6FF&center=true&vCenter=true&width=550&lines=HTML+%F0%9F%94%A5;CSS+%F0%9F%8E%A8;JavaScript+%F0%9F%9A%80;React.js+%E2%9A%9B%EF%B8%8F;Node.js+%F0%9F%9F%A2" alt="Skills"> </p>
 
 ---
 
