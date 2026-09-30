@@ -30,7 +30,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?nileshpatel088&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?nileshpatel088&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -47,7 +47,7 @@
 ## 🐍 My Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/nileshpatel088/nileshpatel088/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?nileshpatel088&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ Node.js       ██░░░░░░░░░░░░░░░░░░  10%
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/nileshpatel088">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -108,7 +108,7 @@ Node.js       ██░░░░░░░░░░░░░░░░░░  10%
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?nileshpatel088&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <h3 align="center">
@@ -116,5 +116,5 @@ Node.js       ██░░░░░░░░░░░░░░░░░░  10%
 </h3>
 
 <p align="center">
-  Made with ❤️ by Nilesh
+  Made with ❤️ by Nilesh Patel
 </p>
