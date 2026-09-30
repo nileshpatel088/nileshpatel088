@@ -15,7 +15,7 @@
 ## 🛠️ My Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode,c,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,git,github,vscode,figma" />
 </p>
 
 ---
