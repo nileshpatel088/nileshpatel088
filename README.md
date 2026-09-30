@@ -8,36 +8,7 @@
 
 ---
 
-## 🚀 About Me
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Nilesh!;🎓+BCA+1st+Year+Student;💻+Passionate+Web+Developer;🌱+Learning+HTML%2C+CSS+%26+JavaScript;🔥+Building+Websites+%26+Projects;🎯+Future+Full+Stack+Developer" alt="Typing SVG" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-|  🚀 | About Me                                      |
-| :-: | :-------------------------------------------- |
-|  🎓 | **BCA 1st Year Student**                      |
-|  💻 | **Passionate about Web Development**          |
-|  🌱 | **Currently learning HTML, CSS & JavaScript** |
-|  🔥 | **I love building websites and projects**     |
-|  📚 | **Learning something new every day**          |
-|  🎯 | **Goal: Become a Full Stack Developer**       |
-
-</div>
-
-<br>
-
-<div align="center">
-
-✨ **Code • Learn • Build • Repeat** ✨
-
-</div>
 
 ---
 
