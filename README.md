@@ -42,22 +42,7 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?nileshpatel088&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?nileshpatel088&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
 ---
-
-# 📈 Activity Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nileshpatel088&theme=tokyo-night"/>
-
-</p>
 
 ---
 
